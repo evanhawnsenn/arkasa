@@ -2,7 +2,7 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": false,
+            "HideIcon": true,
             "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/OZ6xOjY.png",
             "DisableIconText": false,
@@ -18,35 +18,35 @@
                     "layout": 1,
                     "buttontext": "Bem vindos",
                     "title1": "Bem vindo ao servidor CORRUDOS!",
-                    "text1": "Corrudos PvE 5x.\nO CORRUDOS é um servidor totalmente gratis sem VIPS, sem kit iniciante\nO servidor de ARK é hospedado em uma máquina dedicada na minha residencia em São Paulo.\nEu já tive muitos servidores de ARK desde o inicio porém com mais de 6k de horas jogados chegou uma hora que parei de jogar e criar os servidores\nParei com ARK há muito tempo mas agora com o ASCENDED resolvi voltar a jogar e como não tenho muito tempo para o oficial resolvi novamente criar um servidor com as configs que eu gosto\nSinta-se a vontade para jogar e se divertir com o pessoal das antigas e os mais novos também\nRespeite as regras.\nDiscord abaixo na aba.",
+                    "text1": "Corrudos PvE 5x.\n\nO CORRUDOS é um servidor totalmente gratis sem VIPS, sem kit iniciante\nO servidor de ARK é hospedado em uma máquina dedicada na minha residencia em São Paulo.\n\nEu já tive muitos servidores de ARK desde o inicio porém com mais de 6k de horas jogados chegou uma hora que parei de jogar e criar os servidores\n\nParei com ARK há muito tempo mas agora com o ASCENDED resolvi voltar a jogar e como não tenho muito tempo para o oficial resolvi novamente criar um servidor com as configs que eu gosto\n\nSinta-se a vontade para jogar e se divertir com o pessoal das antigas e os mais novos também\nRespeite as regras.\n\nDiscord abaixo na aba.",
                     "imageurl": "https://i.ibb.co/B2cPbdy/Asa2.jpg"
                 }
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 1,
                     "buttontext": "Configurações",
                     "title1": "Configurações",
-                    "text1": "5X Coleta, Experiência, domesticação\n\nAté o Level 30 o xp vai devagar depois deslancha e no level 65 fica um pouco mais hard.\n\nLevel Dinos Selvagens 150\n\nÉ possível aprender todos os engrams, bastante pontos distribuídos\n\nServer Totalmente PvE\n\nAlgumas configs ainda serão implementadas\n\nServidro fica 24horas e 7 dias por semana online, caiu me avise no discord\n\nBreve Mais Informações.",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                    "text1": "5X Coleta, Experiência, domesticação.\n\nAté o Level 30 o xp vai devagar depois deslancha e no level 65 fica um pouco mais hard.\n\nLevel Dinos Selvagens 150\n\nÉ possível aprender todos os engrams, bastante pontos distribuídos.\n\nServer Totalmente PvE.\n\nAlgumas configs ainda serão implementadas.\n\nServidro fica 24 horas e 7 dias por semana online, caiu me avise no discord.\n\nBreve Mais Informações.",
+                    "imageurl": "https://i.ibb.co/B2cPbdy/Asa2.jpg"
                 }
             },
             {
                 "tab3": {
-                    "layout": 3,
+                    "layout": 1,
                     "buttontext": "Regras",
                     "title1": "Regras",
                     "text1": "Server PVE, Atitude PVP é BAN Permanente.\n\nProíbido construir nas ilhas dos pinguins (todas as ilhas do gelo, ilhas)\n\nProibido construir na ilha dos Carnivóros.\n\nProíbido construir na ilha dos herbívoros.\n\nProíbido construir proximo de spawn de players.\n\nProíbido construir no vale em frente a ilha dos castores.\n\nProíbido construir nas montanhas onde tem spawn de metal, cristal e obsidiana.\n\nTenha bom sensonas construções.\n\nNão feche a praia, deixa uma passagem para o player circular por ela.\n\nAgrar dinos, ou de alguma forma prejudicar outro player é ban.\n\nMaximo de construção é 100x100 de fundações.\n\nProíbido construir onde tem spawn de castores e em cavernas.\n\nRespeite os outros jogadores É importante que todos os jogadores sejam respeitosos entre si, e isso inclui evitar linguagem ofensiva e comportamentos tóxicos.\n\nProíbido postar links de outros servidores.\n\nNeste servidor, valorizamos o respeito e a inclusão. Comportamentos ofensivos, tais como racismo, homofobia, sexismo, discurso de ódio, linguagem vulgar ou qualquer forma de discriminação não serão tolerados.",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                    "imageurl": "https://i.ibb.co/B2cPbdy/Asa2.jpg"
                 }
             },
             {
                 "tab4": {
-                    "layout": 3,
+                    "layout": 1,
                     "buttontext": "Mods",
                     "title1": "Mods",
-                    "text1": "Super Spyglass Plus.\n\nTG Stacking Mods 1000-50.\n\nAutDoors.\n\nWBUI2 (Essa Interface).\n\nEgg Collector.\n\nK+ ASA (Puxar itens igual S+, SS.\n\nLnventory (Trava as portas e armários vanilla.",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                    "text1": "Super Spyglass Plus.\n\nTG Stacking Mods 1000-50.\n\nAutDoors.\n\nWBUI2 (Essa Interface).\n\nK+ ASA (Puxar itens igual S+, SS).\n\nLnventory (Trava as portas e armários vanilla).",
+                    "imageurl": "https://i.ibb.co/B2cPbdy/Asa2.jpg"
                 }
             }
         ],
